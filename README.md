@@ -16,6 +16,7 @@ For some practical exams in which there are no notes (marked with <strong>*</str
 |:----:|:---------:|
 |[Concurrent Systems](../../raw/main/Year1SecondSemester/Concurrent%20Systems/Concurrent%20Systems.pdf)|Definitions and Formulas|
 |[Deep Learning and Applied AI](../../raw/main/Year1SecondSemester/Deep%20Learning%20and%20Applied%20AI/Deep%20Learning%20and%20Applied%20AI.pdf)|Definitions, Formulas and Project|
-|Cloud Computing|Project|
-|Data Management for Data Science|Project| 
-|Advanced Architectures||
+|[Advanced Architectures](../../raw/main/Year1SecondSemester/Advanced%20Architectures/Advanced%20Architectures.pdf)|Exercises and Project|
+|Cloud Computing*|Project|
+|Data Management for Data Science*|Project| 
+
