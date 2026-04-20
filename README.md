@@ -18,5 +18,5 @@ For some practical exams in which there are no notes (marked with <strong>*</str
 |[Deep Learning and Applied AI](../../raw/main/Year1SecondSemester/Deep%20Learning%20and%20Applied%20AI/Deep%20Learning%20and%20Applied%20AI.pdf)|Definitions, Formulas and Project|
 |[Advanced Architectures](../../raw/main/Year1SecondSemester/Advanced%20Architectures/Advanced%20Architectures.pdf)|Exercises and Project|
 |Cloud Computing*|Project|
-|Data Management for Data Science*|Project| 
+|[Data Management for Data Science*](https://github.com/SimoneLid/DataManagementDataScience)|Project| 
 
