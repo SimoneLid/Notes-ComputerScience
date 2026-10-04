@@ -1,6 +1,5 @@
 # Notes-ComputerScience
-### Info about Projects
-For some practical exams in which there are no notes (marked with <strong>*</strong>), will be linked my repository associated with that specific exam.
+> ℹ️ For some practical exams for which there are no notes (marked with <strong>*</strong>), the link points to my repository associated with that specific exam.
 
 ## Year 1 (2025/26)
 ### First Semester
@@ -15,9 +14,15 @@ For some practical exams in which there are no notes (marked with <strong>*</str
 |Course|Description|
 |:----:|:---------:|
 |[Concurrent Systems](../../raw/main/Year1SecondSemester/Concurrent%20Systems/Concurrent%20Systems.pdf)|Definitions and Formulas|
-|[Advanced Architectures](../../raw/main/Year1SecondSemester/Advanced%20Architectures/Advanced%20Architectures.pdf)|Exercises and Project|
-|[Deep Learning and Applied AI*](https://github.com/DoctorWho28/deepLearning)|Project|
-|Cloud Computing*|Project|
+|[Advanced Architectures](../../raw/main/Year1SecondSemester/Advanced%20Architectures/Advanced%20Architectures.pdf)|Exercises and [Project](https://github.com/SimoneLid/XGFT-Simulation)|
+|[Cloud Computing*](https://github.com/SimoneLid/CloudComputing)|Project|
 |[Data Management for Data Science*](https://github.com/SimoneLid/DataManagementDataScience)|Project|
 |[Human Computer Interaction on the Web*](https://github.com/gaiacitro/drive-simulator)|Project|
 
+## Year 2 (2026/27)
+
+### First Semester
+|Course|Description|
+|:----:|:---------:|
+|Quantum Computing|Definitions, Formulas and Exercises|
+|Autonomous Networking|Definitions|
