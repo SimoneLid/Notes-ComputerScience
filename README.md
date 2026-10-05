@@ -24,5 +24,5 @@
 ### First Semester
 |Course|Description|
 |:----:|:---------:|
-|Quantum Computing|Definitions, Formulas and Exercises|
+|[Quantum Computing](../../raw/main/Year2FirstSemester/Quantum%20Computing/Quantum%20Computing.pdf)|Definitions, Formulas and Exercises|
 |Autonomous Networking|Definitions|
