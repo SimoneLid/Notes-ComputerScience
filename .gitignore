@@ -1,7 +1,7 @@
 images
 *.tex
 *.listing
-*.gz
+*.synctex*
 *.log
 *.aux
 *.toc
