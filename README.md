@@ -26,5 +26,4 @@
 |:----:|:---------:|
 |[Quantum Computing](../../raw/main/Year2FirstSemester/Quantum%20Computing/Quantum%20Computing.pdf)|Definitions, Formulas and Exercises|
 |Mobile, Edge and Cloud Computing*|Project|
-|[AFC*](https://github.com/DoctorWho28/SQ-DiT)|Project|
-|Autonomous Networking|-|
+|Autonomous Networking*|Project|
